@@ -1,3 +1,4 @@
+# Second comment-only revision exercises PR synchronize and comment update.
 # GRE-403 acceptance fixture: comment-only line shift for PR source identity.
 from flask import Blueprint
 from flask import flash
